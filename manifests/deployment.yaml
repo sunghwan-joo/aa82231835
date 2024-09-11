@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: troubleshooting
-          image: cepgstapacr.azurecr.io/troubleshooting:lastest
+          image: cepgstapacr.azurecr.io/troubleshooting:latest
           ports:
           - containerPort: 8080
