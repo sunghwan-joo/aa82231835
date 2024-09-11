@@ -17,3 +17,4 @@ spec:
           image: cepgbaseacr.azurecr.io/troubleshooting:latest
           ports:
           - containerPort: 8080
+		  
